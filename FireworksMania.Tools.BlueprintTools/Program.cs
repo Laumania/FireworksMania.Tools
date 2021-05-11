@@ -23,7 +23,7 @@ namespace FireworksMania.Tools.BlueprintTools
             Console.WriteLine("");
             Console.WriteLine("");
 
-            Console.WriteLine("## This application need to be in the same folder as the blueprint you want to fix! ##");
+            Console.WriteLine("## Copy the blueprint file(s) you want to fix to the same location as this application! ##");
 
             Console.WriteLine("");
             Console.WriteLine("");
