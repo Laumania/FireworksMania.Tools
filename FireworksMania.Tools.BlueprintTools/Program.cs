@@ -10,7 +10,7 @@ namespace FireworksMania.Tools.BlueprintTools
         static void Main(string[] args)
         {
             Console.WriteLine("########### DISCLAIMER ###########");
-            Console.WriteLine("MAKE SURE YOU HAVE A BACKUP OF YOUR BLUEPRINT - AS THIS TOOL WAS MAKED DURING A SNEEZE!");
+            Console.WriteLine("MAKE SURE YOU HAVE A BACKUP OF YOUR BLUEPRINT - AS THIS TOOL WAS MADE DURING A SNEEZE!");
             Console.WriteLine("########### ********** ###########");
 
             Console.WriteLine("");
