@@ -1,1 +1,3 @@
 # FireworksMania.Tools
+
+Build as single .exe file: dotnet publish -c Release -r win10-x64 /p:PublishSingleFile=true /p:PublishTrimmed=true
