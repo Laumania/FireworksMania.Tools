@@ -18,7 +18,7 @@ namespace FireworksMania.Tools.BlueprintTools
 
             Console.WriteLine("########### INSTRUCTIONS ###########");
             Console.WriteLine("This tool will move all your fireworks in the blueprint up a bit, so old Ranch blueprints still works after the Ranch have been moved up a bit");
-            Console.WriteLine("########### ********** ###########");
+            Console.WriteLine("########### ************ ###########");
 
             Console.WriteLine("");
             Console.WriteLine("");
